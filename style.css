@@ -1,3 +1,28 @@
+.aboutImg {
+    float: left;
+    margin: 10px;
+  }
+  
+  .portfolioImg {
+    margin-bottom: 45px;
+    margin-right: 10px;
+  
+  }
 
+ .footer {
+     width: auto;
+     height: 50px;
+     background-color: black;
+     color: white;
+     padding-top: -100px;
 
- 
+ }
+
+ .portfolioImg {
+     align: center; 
+     padding-bottom: 10px;
+ }
+
+ body {
+    background-image: url(https://www.vippng.com/png/full/361-3612977_website-background-png-tech-background-image-for-website.png);
+ }
