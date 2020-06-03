@@ -14,12 +14,21 @@ body {
   
   }
 
- .footer {
+p .footer {
      width: auto;
-     height: 50px;
+     height: 60px;
      background-color: black;
      color: white;
+     text-align: center;
      }
+
+nav {
+  height: 100px;
+}
+
+.card {
+  margin-bottom: 50px;
+}
 
 
  
